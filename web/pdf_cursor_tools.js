@@ -18,7 +18,7 @@ import { GrabToPan } from './grab_to_pan';
 const CursorTool = {
   SELECT: 0, // The default value.
   HAND: 1,
-  ZOOM: 2,
+  ZOOM: 3,
 };
 
 /**
