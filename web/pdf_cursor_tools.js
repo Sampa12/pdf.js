@@ -148,4 +148,4 @@ class PDFCursorTools {
 export {
   CursorTool,
   PDFCursorTools,
-}; // On veut modifier les choses là dedans !!!
+}; // On veut modifier les choses là dedans
